@@ -1,0 +1,11 @@
+﻿<h2>Hello from learn jQuery AJAX</h2>
+<p id="p1">This is some text in a paragraph.</p>
+
+
+<h1>The ol element</h1>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
